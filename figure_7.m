@@ -2,7 +2,7 @@
 clc,clear;
 % parameter setting
 r2 = 1.6; 
-K2 = 25; 
+K2 = 50; 
 alpha2 = 0.06; 
 
 r3 = 1.2;
